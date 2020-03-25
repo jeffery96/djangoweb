@@ -2,12 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e363c16-09e5-4c9b-a66f-bec5b8d317ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9987eab3-a1a1-428d-bd8d-5ebb6863c62d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9987eab3-a1a1-428d-bd8d-5ebb6863c62d/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9987eab3-a1a1-428d-bd8d-5ebb6863c62d/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myweb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myweb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="7820fc0a-b7c0-4b30-b64d-94ca58a2d203" value="Green" />
+    </colors>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -42,6 +107,14 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -51,18 +124,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZZk8aOyxUqUqCH6yOQ9ukuxTjJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Program Files (x86)/Microsoft Visual Studio/Shared/python38_64/Scripts/autopep8.exe" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KLM\Documents\Workspace\00_Python\00_Project\02_Web\djangoweb" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="myweb" type="Python.DjangoServer" factoryName="Django server">
@@ -90,6 +173,28 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@52dc483a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -101,7 +206,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585053844465</updated>
       <workItem from="1585053847598" duration="580000" />
-      <workItem from="1585097393597" duration="2534000" />
+      <workItem from="1585097393597" duration="2837000" />
+      <workItem from="1585117603265" duration="6304000" />
     </task>
     <task id="LOCAL-00001" summary="重新创建数据库">
       <created>1585099180647</created>
@@ -117,13 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585099392354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="重新创建数据库">
+      <created>1585100171006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585100171006</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="重新创建数据库" />
     <option name="LAST_COMMIT_MESSAGE" value="重新创建数据库" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
@@ -133,22 +247,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2371" y="117" key="#Notifications/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585099171907" />
-    <state x="2471" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585098066485">
+    <state x="2471" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585117658679">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2471" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098066485" />
+    <state x="2471" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585117658679" />
     <state x="2424" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585098598375">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2424" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098598375" />
+    <state x="2432" y="257" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585118542207">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2432" y="257" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585118542207" />
     <state x="805" y="288" width="469" height="450" key="#com.intellij.tools.ToolEditorDialog" timestamp="1585054102807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="805" y="288" width="469" height="450" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585054102807" />
-    <state x="2299" y="60" key="CommitChangelistDialog2" timestamp="1585099391807">
+    <state x="2299" y="60" key="CommitChangelistDialog2" timestamp="1585124022538">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2299" y="60" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585099391807" />
+    <state x="2299" y="60" key="CommitChangelistDialog2/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585124022538" />
     <state width="698" height="552" key="Diff.GoToChangePopup" timestamp="1585099498642">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -162,22 +280,22 @@
     </state>
     <state x="820" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585054031791" />
     <state x="2945" y="260" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585100147407" />
-    <state width="1864" height="275" key="GridCell.Tab.0.bottom" timestamp="1585098726909">
+    <state width="1864" height="246" key="GridCell.Tab.0.bottom" timestamp="1585124022597">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098726909" />
-    <state width="1864" height="275" key="GridCell.Tab.0.center" timestamp="1585098726909">
+    <state width="1864" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585124022597" />
+    <state width="1864" height="246" key="GridCell.Tab.0.center" timestamp="1585124022596">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="275" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098726909" />
-    <state width="1864" height="275" key="GridCell.Tab.0.left" timestamp="1585098726909">
+    <state width="1864" height="246" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585124022596" />
+    <state width="1864" height="246" key="GridCell.Tab.0.left" timestamp="1585124022596">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="275" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098726909" />
-    <state width="1864" height="275" key="GridCell.Tab.0.right" timestamp="1585098726909">
+    <state width="1864" height="246" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585124022596" />
+    <state width="1864" height="246" key="GridCell.Tab.0.right" timestamp="1585124022597">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="275" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098726909" />
+    <state width="1864" height="246" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585124022597" />
     <state width="276" height="551" key="HiddenNamespacesPopup" timestamp="1585098309753">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -195,10 +313,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2681" y="156" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585098331699" />
-    <state x="2496" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1585097393408">
+    <state x="2496" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1585117606917">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585054517684" />
-    <state x="2496" y="315" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585097393408" />
+    <state x="2496" y="315" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585117606917" />
   </component>
 </project>

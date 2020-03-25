@@ -15,7 +15,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.shortcuts import render
+
+
+def layout(request):
+    return render(request, 'layout.html')
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('layout/', layout)
 ]
